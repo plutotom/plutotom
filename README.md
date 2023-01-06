@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi there My name is Isaiah Proctor 👋
 
-I am a full-stack developer. If its node.js I'd love to work on it.
 <a href="https://www.linkedin.com/in/isaiahproctor/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=plutotom.plutotom)
 
 <br />
 
+I am a full-stack developer. If its node.js I'd love to work on it.
+<br />
 Tools I use:
-
+<br />
 * React.js +3 years
 * Express.js +3 years
 * PHP +2 years
