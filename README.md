@@ -8,8 +8,8 @@
 
 <br />
 
-I am a full-stack developer who poves useing software to automate tasks. If its node.js I'd love to work on it.
-I have a ba in psychology and philosophy making both coding, oeople, and chalanging logical problems my specialty. 
+I am a full-stack developer who loves useing software to automate tasks. If it's node.js I'd love to work on it.
+I have a BA in psychology and philosophy making both coding, people, and chalanging logical problems my specialty.
 <br />
 Tools I use:
 <br />
