@@ -1,13 +1,4 @@
 ### Hi there My name is Isaiah Proctor 👋
-
-<a href="https://www.linkedin.com/in/isaiahproctor/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-
-<br />
-
 I am a full-stack developer who loves useing software to automate tasks. If it's node.js I'd love to work on it.
 I have a BA in psychology and philosophy making both coding, people, and chalanging logical problems my specialty.
 <br />
